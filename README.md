@@ -1,5 +1,5 @@
 # About Me:
-Hi! I’m Gregory, a Computer Science co-op student at the University of Windsor, working toward my Bachelor’s. <br>I enjoy full-stack development for LLMs, machine learning, and UI/application projects. <br>Outside class, I explore new tech, build side projects, and occasionally experiment with hardware. <br>I’m currently looking for work opportunities to keep growing my skills and make an impact.
+Hi! I’m Gregory, a Computer Science student at the University of Windsor, working toward my Bachelor’s. <br>I enjoy full-stack development for LLMs, machine learning, and UI/application projects. <br>Outside class, I explore new tech, build side projects, and occasionally experiment with hardware. <br>I’m currently looking for work opportunities to keep growing my skills and make an impact.
 
 
 ## Socials:
